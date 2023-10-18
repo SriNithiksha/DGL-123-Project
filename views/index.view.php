@@ -102,7 +102,7 @@
 
 
         </div>
-        <a href="destination.php" class="cta-button">More Destination</a>
+        <a href="destination" class="cta-button">More Destination</a>
     </section>
 
     <!-- OUR PACKAGES-->
@@ -156,6 +156,6 @@
                 </div>
             </div>
         </div>
-        <a href="packages.php" class="cta-button">More Packages</a>
+        <a href="packages" class="cta-button">More Packages</a>
     </section>
 <?php include'partials/footer.php'; ?>
