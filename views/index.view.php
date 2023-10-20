@@ -4,7 +4,7 @@
         <div class="hero-content">
             <h1>Plan Your Dream Vacation</h1>
             <p>Discover amazing destinations and book your next holiday today!</p>
-            <a href="getstarted.php" class="cta-button">Get Started</a>
+            <a href="#popular" class="cta-button">Get Started</a>
         </div>
     </div>
 
@@ -48,7 +48,7 @@
 
     <!-- POPULAR DESTINATIONS-->
 
-    <section class="featured-destinations">
+    <section id="popular" class="featured-destinations">
         <h1>POPULAR DESTINATIONS</h1>
         <p>With a world full of fascinating travel destinations, choosing the perfect vacation spot can present a
             challenge.</p>
