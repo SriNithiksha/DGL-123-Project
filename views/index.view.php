@@ -161,10 +161,10 @@
 </section>
 <!--Social Media Integration-->
 <div class="wrapper">
-    <h2>Stay Connected with US</h2>
+    <h2>Stay Connected with us</h2>
     <p>We encourage our users to share their favorite packages and experiences on their social profiles Also get to know
         mre about the deals and promotions.</p>
-        <div class="social-media-icons">
+        <div class="icons">
     <a href="https://www.facebook.com/" target="_blank">
         <i class="fab fa-facebook"></i>
     </a>
