@@ -241,18 +241,22 @@ select {
     margin-top: 15px;
 }
 
-
-
 .icons li{
     list-style: none;
-    margin: 50px 30px;
     display: inline-block;
-    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 15%;
+    font-size: 2rem;
     padding: 20px 20px;
-    color: #ff9900;
-    border: 2px solid #ff9900;
+    color: #ff6600;
     border-radius: 50px;
     transition: .5s; 
+}
+.icons i{
+    color: #ff6600;
+}
+.icons i:hover {
+    background-color: #ff9900;
 }
 
 /** DESTINATION PAGE  **/
