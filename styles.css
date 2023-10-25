@@ -223,7 +223,15 @@ select {
     background-color: hwb(211 33% 37%);
 }
 
-
+/** SOCIAL MEDIA INTEGRATION **/
+.wrapper h2{
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
 
 
 /** DESTINATION PAGE  **/
