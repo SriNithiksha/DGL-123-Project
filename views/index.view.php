@@ -164,20 +164,22 @@
     <h2>Stay Connected with us</h2>
     <p>We encourage our users to share their favorite packages and experiences on their social profiles Also get to know
         mre about the deals and promotions.</p>
-        <div class="icons">
-    <a href="https://www.facebook.com/" target="_blank">
-        <i class="fab fa-facebook"></i>
-    </a>
-    <a href="https://twitter.com/" target="_blank">
-        <i class="fab fa-twitter"></i>
-    </a>
-    <a href="https://www.instagram.com/" target="_blank">
-        <i class="fab fa-instagram"></i>
-    </a>
-    <a href="https://www.youtube.com/yourchannel" target="_blank">
-        <i class="fab fa-youtube"></i>
-    </a>
-</div>
+    <div class="icons">
+        <ul>
+            <li><a href="https://www.facebook.com/" target="_blank">
+                    <i class="fab fa-facebook"></i>
+                </a></li>
+            <li><a href="https://twitter.com/" target="_blank">
+                    <i class="fab fa-twitter"></i>
+                </a></li>
+            <li><a href="https://www.instagram.com/" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a></li>
+            <li><a href="https://www.youtube.com/yourchannel" target="_blank">
+                    <i class="fab fa-youtube"></i>
+                </a></li>
+        </ul>
+    </div>
 
 
 </div>
