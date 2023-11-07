@@ -17,7 +17,7 @@
                             history that dates back thousands of years, India has something to offer every type of
                             traveler.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india">Learn More</a>
                     </div>
                 </div>
             </div>

@@ -5,11 +5,12 @@
         <h1>Plan Your Dream Vacation</h1>
         <p>Discover amazing destinations and book your next holiday today!</p>
         <a href="#popular" class="cta-button">Get Started</a>
+        <a href="#book" class="cta-button">Book Now</a>
     </div>
 </div>
 
 <!--TOUR SEARCH-->
-<div class="container">
+<section id="book"class="container">
     <h1>Book Your Travel</h1>
     <form>
         <div class="form-group">
@@ -42,10 +43,10 @@
         </div>
         <div class="book-btn">
             <!--<input type="submit" value="Book Now">-->
-            <a href="signin" class="cta-button">Book Now</a>
+            <a href="signin" class="booknow">Book Now</a>
         </div>
     </form>
-</div>
+</section>
 
 <!-- POPULAR DESTINATIONS-->
 
