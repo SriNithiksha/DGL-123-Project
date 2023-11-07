@@ -10,33 +10,23 @@
 </div>
 
 <!--TOUR SEARCH-->
-<section id="book"class="container">
+<section id="book" class="container">
     <h1>Book Your Travel</h1>
     <form>
         <div class="form-group">
             <div class="input-group">
-                <label for="destination">Destination:</label>
+                <label for="destination">Destination</label>
                 <input type="text" id="destination" name="destination" required>
-            </div>
-            <div class="input-group">
-                <label for="passengers">Number of Passengers:</label>
-                <select id="passengers" name="passengers">
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                </select>
             </div>
 
         </div>
         <div class="form-group">
             <div class="input-group">
-                <label for="departureDate">Departure Date:</label>
+                <label for="departureDate">Departure Date</label>
                 <input type="date" id="departureDate" name="departureDate" required>
             </div>
             <div class="input-group">
-                <label for="returnDate">Return Date:</label>
+                <label for="returnDate">Return Date</label>
                 <input type="date" id="returnDate" name="returnDate" required>
             </div>
 

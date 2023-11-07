@@ -2,7 +2,7 @@
 
 <div class="container2">
         <form action="login.php" method="POST">
-            <h2></Sign inh2>
+            <h1>Sign in as User</h1>
             <label for="username">Username</label>
             <input type="text" id="username" name="username" required>
             <label for="password">Password</label>
