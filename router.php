@@ -7,6 +7,7 @@ $routes = [
     '/destination' => 'controllers/destination.php',
     '/packages' => 'controllers/packages.php',
     '/gallery' => 'controllers/gallery.php',
+    '/signin' => 'controllers/signin.php',
 ];
 
 function routeToController($uri, $routes){

@@ -172,6 +172,71 @@ select {
     background-color: #ff9900;
 }
 
+/** SIGN IN **/
+
+.container2 {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    width: 300px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 50px;
+    margin-top: 15px;
+    margin-left: 100px;
+    background-color: #ff6600;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 50px;
+    margin-top: 10px;
+    background-color: #ff6600;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.button1:hover {
+    background-color: #ff9900;
+}
+
+.button2:hover {
+    background-color: #ff9900;
+}
 /** POPULAR DESTINATION **/
 .featured-destinations h2 {
     font-size: 1.5rem;

@@ -41,7 +41,8 @@
 
         </div>
         <div class="book-btn">
-            <input type="submit" value="Book Now">
+            <!--<input type="submit" value="Book Now">-->
+            <a href="signin" class="cta-button">Book Now</a>
         </div>
     </form>
 </div>
