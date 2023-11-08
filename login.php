@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         require ('views/signin.view.php');
     } else {
         // Authentication failed
-        require ('views/index.view.php');
+        require ('views/india.view.php');
     }
 }
 ?>
