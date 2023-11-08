@@ -11,7 +11,8 @@
                 <li>Price: $1500</li>
                 <li>Departure: May 1, 2023</li>
             </ul>
-            <button>Book Now</button>
+            <!--<button>Book Now</button>-->
+            <a href="payment">Book Now</a>
         </div>
     </section>
 

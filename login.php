@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $error['error'] = "Invalid username or password" ;
         require ('views/signin.view.php');
     } else {
-        // Authentication failed
+        
         require ('views/india.view.php');
     }
 }

@@ -246,6 +246,50 @@ input {
 .button2:hover {
     background-color: #ff9900;
 }
+
+/** PAYMENT **/
+
+.container3 {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding: 20px;
+    width: 300px;
+}
+
+.container3 form {
+    display: flex;
+    flex-direction: column;
+}
+
+.container3 label, input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.container3 button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #ff6600;
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+
+.container3 button:hover {
+    background-color: #ff9900;
+}
+
 /** POPULAR DESTINATION **/
 .featured-destinations h2 {
     font-size: 1.5rem;
