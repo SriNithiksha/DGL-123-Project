@@ -369,6 +369,7 @@ input {
 
 .package-info {
     flex: 1;
+    
 }
 
 .package h2 {
@@ -391,17 +392,21 @@ ul li {
     margin-bottom: 5px;
 }
 
-button {
-    background-color: #333;
-    color: #fff;
+.package-info  .button{
+    display: inline-block;
     padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: hsl(211, 69%, 40%);
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
     transition: background-color 0.3s;
 }
 
-button:hover {
+.package-info .button:hover {
     background-color: #555;
 }
 
