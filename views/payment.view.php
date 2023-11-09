@@ -15,6 +15,7 @@
         <label for="amount">Total</label>
         <input type="text" id="amount" name="amount" placeholder="$1500" required>
 
-        <button type="submit">Pay Now</button>
+       <!-- <button type="submit">Pay Now</button>-->
+        <a href="popup" class="popup">Pay Now</a>
     </form>
 </div>

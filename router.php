@@ -10,6 +10,7 @@ $routes = [
     '/signin' => 'controllers/signin.php',
     '/india' => 'controllers/india.php',
     '/payment' => 'controllers/payment.php',
+    '/popup' => 'controllers/popup.php',
 ];
 
 function routeToController($uri, $routes){

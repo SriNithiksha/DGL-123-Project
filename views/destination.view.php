@@ -17,7 +17,7 @@
                             history that dates back thousands of years, India has something to offer every type of
                             traveler.
                         </p>
-                        <a href="india">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                             a rich cultural heritage, stunning natural landscapes, and a diverse tapestry of
                             experiences.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@
                             range of experiences. This continent-country, known for its stunning landscapes, unique
                             wildlife, and vibrant cities, is a land of adventure and exploration.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                             neighborhoods, and a blend of the historic and contemporary, London is a top destination for
                             travelers.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                             Known for its vibrant street life, ornate temples, and delectable street food, Bangkok
                             offers travelers a taste of both tradition and modernity in Southeast Asia.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                             This island city-state in Southeast Asia is known for its cleanliness, efficiency, and
                             diverse attractions.
                         </p>
-                        <a href="#">Learn More</a>
+                        <a href="india" class="learnmore">Learn More</a>
                     </div>
                 </div>
             </div>
