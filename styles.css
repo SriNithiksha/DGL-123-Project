@@ -34,8 +34,10 @@ nav {
     padding: 0 20px;
 }
 
-.logo {
+.logo a{
+    text-decoration: none;
     font-size: 2rem;
+    color: #ff6600;
 }
 
 .nav-links {
@@ -185,7 +187,7 @@ select {
     width: 300px;
 }
 
-.container2 h1{
+.container2 h1 {
     font-size: 2rem;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -196,7 +198,7 @@ form {
     flex-direction: column;
 }
 
-.container2 label{
+.container2 label {
     font-weight: bold;
     font-size: 1.5rem;
     margin-top: 5px;
@@ -213,7 +215,7 @@ input {
     padding: 10px 20px;
     margin: 50px;
     margin-top: 15px;
-    
+
     background-color: #ff6600;
     font-size: 1.5rem;
     text-align: center;
@@ -265,7 +267,8 @@ input {
     flex-direction: column;
 }
 
-.container3 label, input {
+.container3 label,
+input {
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 1.5rem;
@@ -312,19 +315,19 @@ input {
     text-align: center;
 }
 
-.packages h1{
+.packages h1 {
     font-size: 2rem;
     margin-bottom: 20px;
 }
 
-.price{
+.price {
     font-size: 1.5rem;
     font-weight: bold;
     color: hsl(211, 69%, 40%);
     line-height: 150%;
 }
 
-.book-now .cta-button{
+.book-now .cta-button {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 30px;
@@ -344,7 +347,7 @@ input {
 
 /** PACKAGES FOR INIDA **/
 
-.india h1{
+.india h1 {
     font-size: 2rem;
     margin-bottom: 20px;
     margin-top: 30px;
@@ -370,7 +373,7 @@ input {
 
 .package-info {
     flex: 1;
-    
+
 }
 
 .package h2 {
@@ -393,7 +396,7 @@ ul li {
     margin-bottom: 5px;
 }
 
-.package-info  .button{
+.package-info .button {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 30px;
@@ -416,7 +419,7 @@ ul li {
 
 
 /** SOCIAL MEDIA INTEGRATION **/
-.wrapper h2{
+.wrapper h2 {
     font-weight: bold;
     font-size: 2.5rem;
     color: black;
@@ -425,7 +428,7 @@ ul li {
     margin-bottom: 0;
 }
 
-.wrapper p{
+.wrapper p {
     color: #333;
     text-align: center;
     font-weight: lighter;
@@ -433,7 +436,7 @@ ul li {
     margin-top: 15px;
 }
 
-.icons li{
+.icons li {
     list-style: none;
     display: inline-block;
     text-align: center;
@@ -442,11 +445,13 @@ ul li {
     padding: 20px 20px;
     color: #ff6600;
     border-radius: 50px;
-    transition: .5s; 
+    transition: .5s;
 }
-.icons i{
+
+.icons i {
     color: #ff6600;
 }
+
 .icons i:hover {
     background-color: #ff9900;
 }
@@ -512,7 +517,7 @@ ul li {
     margin-bottom: 2.5rem;
 }
 
-.card-content .learnmore{
+.card-content .learnmore {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 30px;
@@ -557,16 +562,83 @@ main {
 }
 
 /** Footer **/
+
 footer {
     background-color: #333;
     color: #fff;
-    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 20px 0;
 }
 
+.footer-logo a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #ff6600;
+}
+
+.footer-links ul {
+    list-style: none;
+}
+
+.footer-links ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.footer-social ul {
+    list-style: none;
+}
+
+.footer-social ul li {
+    list-style: none;
+    display: inline-block;
+    font-size: 2rem;
+    padding: 20px 20px;
+    color: #ff6600;
+    border-radius: 50px;
+    transition: .5s;
+    margin-right: 10px;
+}
+
+.footer-social i {
+    color: #ff6600;
+}
+
+.footer-social i:hover {
+    background-color: #ff9900;
+}
+
+.footer-contact p {
+    font-size: 1.5rem;
+    line-height: 180%;
+}
+
+.foot p{
+    background-color: #282727;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+
+}
+
 /** BOOKING CONFIRMATION POPUP **/
-
-
 
 .modal {
     position: fixed;

@@ -151,7 +151,12 @@
     </div>
     <a href="packages" class="cta-button">More Packages</a>
 </section>
-<!--Social Media Integration-->
+
+
+
+
+<!--- Part of Lab exercise
+<!--<social Media Integration>
 <div class="wrapper">
     <h2>Stay Connected with us</h2>
     <p>We encourage our users to share their favorite packages and experiences on their social profiles Also get to know
@@ -174,5 +179,5 @@
     </div>
 
 
-</div>
+</div>-->
 <?php include 'partials/footer.php'; ?>

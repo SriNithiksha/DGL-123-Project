@@ -15,7 +15,9 @@
 
     <header>
         <nav>
-            <div class="logo">Bon-Voyage</div>
+            <div class="logo">
+                <a href="/">Bon-Voyage</a>
+            </div>
             <ul class="nav-links">
                 <li><a href="/">Home</a></li>
                 <li><a href="destination">Destinations</a></li>
