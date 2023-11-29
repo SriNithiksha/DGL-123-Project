@@ -12,9 +12,9 @@
                     <div class="card-content">
                         <h1 class="card-header">India</h1>
                         <p class="card-text">
-                            Visiting # is an enchanting and culturally rich experience that offers a blend of
+                            Visiting India is an enchanting and culturally rich experience that offers a blend of
                             ancient traditions and modern diversity. With its vast landscapes, vibrant cities, and a
-                            history that dates back thousands of years, # has something to offer every type of
+                            history that dates back thousands of years, India has something to offer every type of
                             traveler.
                         </p>
                         <a href="india" class="learnmore">Learn More</a>

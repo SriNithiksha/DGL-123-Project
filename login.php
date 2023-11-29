@@ -27,14 +27,14 @@ $config = require('config.php');
 
 $db = new Database($config['database']);
 
-$user = $db->query('select * from users')->fetch();
+$user = $db->query('select * from login')->fetch();
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST["username"];
     $password = $_POST["password"];
 
     // Replace this with your user authentication logic, e.g., database lookup.
-    $validUsername = $user['email'];
+    $validUsername = $user['username'];
     $validPassword = $user['password'];
     $error = [];
     if ($username !== $validUsername || $password !== $validPassword) {
